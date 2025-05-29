@@ -11,14 +11,14 @@ I'm a data-driven engineer passionate about solving real-world problems using da
 -------
 ### 🛠️ Technical Skills
 
-<h4>Languages</h4>
+<h5>Languages</h5>
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" title="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" title="SQL / MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" title="Java"/>
 </p>
 
-<h4>Frameworks & Libraries</h4>
+<h5>Frameworks & Libraries</h5>
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="30" title="Spring"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="30" title="Pandas"/>
@@ -28,13 +28,13 @@ I'm a data-driven engineer passionate about solving real-world problems using da
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="30" title="PyTorch"/>
 </p>
 
-<h4>Databases</h4>
+<h5>Databases</h5>
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="30" title="MongoDB"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" title="MySQL"/>
 </p>
 
-<h4>Tools & Platforms</h4>
+<h5>Tools & Platforms</h5>
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="30" title="Apache Kafka"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" width="30" title="JUnit"/>
