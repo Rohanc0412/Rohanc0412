@@ -1,4 +1,4 @@
-<h1><p align="left">Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"/> I'm Rohan Chandrashekhar <img src="https://github.com/Rohanc0412/Rohanc0412/blob/d3210cbeb0fc4d4e39ddd297548ca8b98869e36c/images/dog_gif.gif" width="60"/></p></h1>
+<h1><p align="left">Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"/> I'm Rohan Chandrashekhar</p></h1>
 <img align="right" src="https://github.com/Rohanc0412/Rohanc0412/blob/077f870df5213f12c8174a67ca0544ef4f46051d/images/ds_gif.gif" width="325"/>
 🎓 Master’s in Data Science @ Northeastern University <br>
 💼 Ex-Accenture | Data Scientist Intern @ Whitetail Technologies  <br>
