@@ -8,6 +8,7 @@
 I'm a data-driven engineer passionate about solving real-world problems using data science, machine learning, and full-stack development. With hands-on experience at Accenture and Whitetail Technologies, I’ve worked on scalable web systems, real-time data pipelines, and end-to-end ML solutions that deliver measurable impact.
 <br>
 
+-------
 ### 🛠️ Technical Skills
 
 <h4>Languages</h4>
@@ -22,7 +23,7 @@ I'm a data-driven engineer passionate about solving real-world problems using da
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="30" title="Spring"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="30" title="Pandas"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="30" title="NumPy"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" width="30" title="Scikit-learn"/>
+  <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width="90" title="Scikit-learn"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="30" title="TensorFlow"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="30" title="PyTorch"/>
 </p>
@@ -36,13 +37,14 @@ I'm a data-driven engineer passionate about solving real-world problems using da
 <h4>Tools & Platforms</h4>
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="30" title="Apache Kafka"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Pinecone_logo.svg/1024px-Pinecone_logo.svg.png" width="30" title="Pinecone"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" width="30" title="JUnit"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" title="CI/CD"/>
-  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="70" title="Seaborn"/>
+  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="100" title="Seaborn"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="30" title="Matplotlib"/>
 </p>
 <br>
+
+---
 
 ### 📫 Let's Connect
 
